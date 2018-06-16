@@ -1,1 +1,5 @@
 项目文档：
+https://github.com/jinhuashijie/abc
+1、建立GITHUB或者SVN中心仓库;
+2、可以进行代码提交;
+3、可以进行代码的历史版本管理，并根据文档实现对应的功能点。
