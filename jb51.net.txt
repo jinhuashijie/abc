@@ -1,3 +1,7 @@
+ERROR:之前代码提交不成功的原因是：
+首先在自己的GITHUB官网上FORK一下对方的代码，得到对方的“合作者”邀请链接后，并实现第一次的修改。
+第二，才拉取https://github.com/jinhuashijie/abc下的代码到VSCODE进行暂存更改，提交更改，推送代码。
+
 项目文档：
 https://github.com/jinhuashijie/abc
 1、建立GITHUB或者SVN中心仓库;
